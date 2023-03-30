@@ -1,5 +1,5 @@
 
-/* */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -31,7 +31,7 @@ header a{
 }
 
 .icons{
-    margin-top: 8%;
+    margin-top: 5%;
     margin-left: 5%;
     width: 50px;
 }
@@ -39,24 +39,50 @@ header a{
 header li{
     list-style: none;
     display: inline-block;
-    margin: 25px 25px 25px;
+    margin-left: 5px;
 }
 /*------------------------------------------------ header ------------------------------------------------*/
+/*------------------------------------------------ nav ------------------------------------------------*/
 nav{
-    background-color: grey;
+    background-color: rgba(69, 202, 255, 0.788);
     height: 40px;
     padding: 5px;
     text-align: center;
 }
 nav a{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 25px;
-    word-spacing: 5px;
 }
 nav li{
     display: inline-block;
-    font-size: large;
 
 
 }
+/*------------------------------------------------ nav ------------------------------------------------*/
+/*------------------------------------------------ center ------------------------------------------------*/
+.background{
+    width: 100%;
+    display: block;
+
+}
+
+.first{
+    display: block;
+    position: absolute;
+    bottom: 500px;
+    right: 30%;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 100px;
+    font-family: 'Brush Script MT', 'Brush Script Std', 'cursive';
+}
+.last{
+    display: block;
+    position: absolute;
+    bottom: 420px;
+    right: 20%;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 100px;
+    font-family: 'Brush Script MT', 'Brush Script Std', 'cursive';
+}  
+/*------------------------------------------------ center ------------------------------------------------*/
