@@ -1,5 +1,7 @@
 viable place to work in.
 
+https://kevinverduzco27.github.io/portfolio/
+
 
 What was your motivation? my motivation was that i really wanted all the links to work sense last time i could not get it to work
 Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") truthfully i worked on this project with alot of ideas an it really got m thiking outside the box.
