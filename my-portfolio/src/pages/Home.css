@@ -1,0 +1,22 @@
+/* Home */
+.home {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 2rem;
+}
+
+.background {
+  max-width: 100%;
+}
+
+.first {
+  color: #333;
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+
+.last {
+  color: #555;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
